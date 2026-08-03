@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e85cca-c082-4660-b03b-88c7d04040d9" name="Changes" comment="" />
+    <list default="true" id="a7e85cca-c082-4660-b03b-88c7d04040d9" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/learning/intermediate/extension-functions.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/discordBot/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/discordBot/Main.kt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,14 +47,26 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin File" />
         <option value="Kotlin Class" />
+        <option value="Kotlin File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hulksmashjaxon&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hulksmashjaxon/kotlin-bot.git&quot;,
+    &quot;accountId&quot;: &quot;f430975e-17b9-49e6-88d3-77baf06217b7&quot;
+  }
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="EXv2QnPZ" />
   </component>
@@ -59,12 +75,16 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3HKS8Nsl0qUm1RinL9iVUu7nN82" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "CidrDebugProfileConversion": "true",
     "Gradle.untitled [:org.example.BeginnerKt.main()].executor": "Debug",
     "Gradle.untitled [:org.example.ClassesKt.main()].executor": "Debug",
@@ -73,7 +93,9 @@
     "Gradle.untitled [assemble].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -85,7 +107,7 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Settings.Markdown.SmartKeys"
+    "settings.editor.selected.configurable": "inlay.hints"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -185,6 +207,10 @@
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
