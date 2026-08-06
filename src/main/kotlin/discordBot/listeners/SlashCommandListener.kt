@@ -1,16 +1,9 @@
 package org.example.discordBot.listeners
 
 import net.dv8tion.jda.api.EmbedBuilder
-import net.dv8tion.jda.api.components.MessageTopLevelComponent
-import net.dv8tion.jda.api.components.container.Container
-import net.dv8tion.jda.api.components.separator.Separator
-import net.dv8tion.jda.api.components.textdisplay.TextDisplay
-import net.dv8tion.jda.api.events.interaction.command.CommandAutoCompleteInteractionEvent
 import net.dv8tion.jda.api.events.interaction.command.SlashCommandInteractionEvent
 import net.dv8tion.jda.api.hooks.ListenerAdapter
-import net.dv8tion.jda.api.interactions.commands.Command
 import org.example.discordBot.commands.Moderation
-import org.json.JSONArray
 import java.awt.Color
 import java.time.Instant
 
