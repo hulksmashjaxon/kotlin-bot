@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a7e85cca-c082-4660-b03b-88c7d04040d9" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/learning/intermediate/extension-functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/discordBot/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/discordBot/Main.kt" afterDir="false" />
-    </list>
+    <list default="true" id="a7e85cca-c082-4660-b03b-88c7d04040d9" name="Changes" comment="Lowk dont know" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,8 +43,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
@@ -90,6 +86,11 @@
     "Gradle.untitled [:org.example.ClassesKt.main()].executor": "Debug",
     "Gradle.untitled [:org.example.MainKt.main()].executor": "Debug",
     "Gradle.untitled [:org.example.discordBot.MainKt.main()].executor": "Run",
+    "Gradle.untitled [:org.example.discordBot.resources.FFmpegUtilKt.main()].executor": "Run",
+    "Gradle.untitled [:org.example.learning.intermediate.Classes_interfacesKt.main()].executor": "Debug",
+    "Gradle.untitled [:org.example.learning.intermediate.ObjectsKt.main()].executor": "Debug",
+    "Gradle.untitled [:org.example.learning.intermediate.Open_special_classesKt.main()].executor": "Debug",
+    "Gradle.untitled [:org.example.learning.intermediate.Scope_functionsKt.main()].executor": "Run",
     "Gradle.untitled [assemble].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -100,6 +101,7 @@
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/IdeaProjects/untitled/src/main/resources/music",
     "node.js.detected.package.jshint": "true",
     "node.js.selected.package.jshint": "",
     "nodejs_package_manager_path": "npm",
@@ -107,68 +109,55 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "inlay.hints"
+    "settings.editor.selected.configurable": "Errors"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\untitled\src\main\resources\music" />
+      <recent name="E:\IdeaProjects\untitled\src\main\resources" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\IdeaProjects\untitled\src\main\kotlin" />
     </key>
     <key name="K2MoveDeclarationsDialog.RECENT_PACKAGE_KEY">
+      <recent name="org.example.learning.intermediate" />
       <recent name="org.example.learning" />
       <recent name="org.example.learning.classes" />
       <recent name="org.example.learning.beginner" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
-    <configuration name="untitled [assemble]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="assemble" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <ExternalSystemDebugDisabled>false</ExternalSystemDebugDisabled>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <RunAsTest>false</RunAsTest>
-      <GradleProfilingDisabled>false</GradleProfilingDisabled>
-      <GradleCoverageDisabled>false</GradleCoverageDisabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="BeginnerKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learning.beginner.BeginnerKt" />
+  <component name="RunManager" selected="Kotlin.MainKt">
+    <configuration name="Classes_interfacesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learning.intermediate.Classes_interfacesKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learning.classes.ClassesKt" />
-      <module name="untitled.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.discordBot.MainKt" />
+    <configuration name="FFmpegUtilKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.discordBot.resources.FFmpegUtilKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="org.example.learning.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="org.example.discordBot.MainKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learning.intermediate.ObjectsKt" />
+      <module name="untitled.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Open_special_classesKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.learning.intermediate.Open_special_classesKt" />
       <module name="untitled.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -176,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.MainKt (1)" />
-        <item itemvalue="Gradle.untitled [assemble]" />
-        <item itemvalue="Kotlin.ClassesKt" />
-        <item itemvalue="Kotlin.BeginnerKt" />
         <item itemvalue="Kotlin.MainKt" />
+        <item itemvalue="Kotlin.FFmpegUtilKt" />
+        <item itemvalue="Kotlin.Open_special_classesKt" />
+        <item itemvalue="Kotlin.ObjectsKt" />
+        <item itemvalue="Kotlin.Classes_interfacesKt" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +199,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="Test" />
+    <MESSAGE value="Lowk dont know (2)" />
+    <MESSAGE value="Lowk dont know" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lowk dont know" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

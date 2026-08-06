@@ -11,7 +11,8 @@ fun main() {
     val jda = JDABuilder.createLight(env.get("TOKEN")?: error("Missing token"), EnumSet.of(
         GatewayIntent.GUILD_MESSAGES,
         GatewayIntent.MESSAGE_CONTENT,
-        GatewayIntent.GUILD_MEMBERS)).addEventListeners(SlashCommandListener()).build()
+        GatewayIntent.GUILD_MEMBERS,
+        GatewayIntent.GUILD_VOICE_STATES)).addEventListeners(SlashCommandListener()).build()
 
     jda.updateCommands().addCommands(*commands.toTypedArray()).queue()
 }
